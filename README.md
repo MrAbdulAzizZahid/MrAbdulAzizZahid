@@ -3,10 +3,11 @@
     <h1> Hi there, I'm Abdul-Aziz <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'></h1>
   </div>
 <p align="center">
-<a href="https://github.com/MrAbdulAzizZahid"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Full+Stack+Skill+Trainer;Front+End+Developer;Backend+Developer&center=true&width=500&height=50"></a>
+<a href="https://github.com/MrAbdulAzizZahid"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;SEO+optimization&center=true&width=500&height=50"></a>
   </p>
-
-
+<!-- MERN+Stack+Developer;
+Full+Stack;+Skill+Trainer
+Backend+Developer	 -->
 <!-- - 🌱 Expanding knowledge in WEB 3.0. -->
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2023-24Goals: Contribute more to Open Source projects and execute innovative ideas.
