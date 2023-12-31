@@ -5,9 +5,7 @@
 <p align="center">
 <a href="https://github.com/MrAbdulAzizZahid"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;SEO+Optimization&center=true&width=500&height=50"></a>
   </p>
-<!-- MERN+Stack+Developer;
-Full+Stack;+Skill+Trainer
-Backend+Developer	 -->
+
 <!-- - 🌱 Expanding knowledge in WEB 3.0. -->
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2023-24Goals: Contribute more to Open Source projects and execute innovative ideas.
