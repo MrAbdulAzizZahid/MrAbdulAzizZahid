@@ -8,7 +8,7 @@
 
 <!-- - 🌱 Expanding knowledge in WEB 3.0. -->
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2023-24Goals: Contribute more to Open Source projects and execute innovative ideas.
+- 🥅 2026-27Goals: Contribute more to Open Source projects and execute innovative ideas.
 - 💎 Let's connect if you're a tech enthusiast!  
  
  
